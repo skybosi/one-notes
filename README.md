@@ -19,7 +19,7 @@ some notes, one world, one notes
         - [UDP协议.md](./计算机网络/UDP/UDP协议.md)
         - [UDP用户数据报协议.pdf](./计算机网络/UDP/UDP用户数据报协议.pdf)
 - 排序
-    - [快速排序.md]()
+    - [快速排序.md](./排序/快速排序.pdf)
     - 一致性哈希
         - [consistenthashing.pdf](./排序/一致性哈希/consistenthashing.pdf)
         - [一致性哈希.md](./排序/一致性哈希/一致性哈希.md)
